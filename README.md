@@ -326,15 +326,6 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 ---
 
-## 👨‍💻 Autor
-
-**Seu Nome**
-
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-
----
 
 ## 📄 Licença
 
